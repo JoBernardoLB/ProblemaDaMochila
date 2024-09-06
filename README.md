@@ -20,6 +20,27 @@ O objetivo do programa é:
      - **Dupla**: Modifica dois bits da solução.
 3. **Avaliar as soluções**: Verificar se as soluções geradas atendem à capacidade da mochila e calcular o valor total de cada solução.
 
+## Tabela de Objetos
+
+| Objeto | Peso (Kg) | Valor ($) |
+|--------|-----------|-----------|
+| A      | 12        | 4         |
+| B      | 3         | 4         |
+| C      | 5         | 8         |
+| D      | 4         | 10        |
+| E      | 9         | 15        |
+| F      | 1         | 3         |
+| G      | 2         | 1         |
+| H      | 3         | 1         |
+| I      | 4         | 2         |
+| J      | 1         | 10        |
+| K      | 2         | 20        |
+| L      | 4         | 15        |
+| M      | 5         | 10        |
+| N      | 2         | 3         |
+| O      | 4         | 4         |
+| P      | 1         | 12        |
+
 ## Funcionalidades
 
 - **Entrada**: Recebe 6 números inteiros entre 0 e 65535 como soluções iniciais.
